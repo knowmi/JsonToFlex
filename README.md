@@ -32,3 +32,7 @@ Requirements:
 - className should be the full path  (e.g. ci.ps.model.Province) to flex vo/model objects
 - mapToAsObject(..) static method takes JSON decoded object and returns YOUR typed objects
 
+
+Limitations:
+============
+- [Bindable] tags are not supported in Action Script class as of version 0.1
